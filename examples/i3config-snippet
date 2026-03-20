@@ -1,0 +1,2 @@
+# Автоматическая смена layout (запуск по хоткею)
+bindsym $mod+l exec ~/projects/autolayout.sh
